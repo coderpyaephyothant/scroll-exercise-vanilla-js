@@ -1,0 +1,26 @@
+.firstLine{
+    background-image:linear-gradient(#2d557d,#9610fd);
+    height: 500px;
+    color:white;
+    padding:30px;
+    font-size: 50px;
+    
+
+}
+
+
+.SecondLine{
+    background-color:lightgrey;
+    padding:30px 30px 5000px;
+    text-align: justify;
+}
+.mybtn{
+    display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  }
+  .active{
+      display: block;
+  }
